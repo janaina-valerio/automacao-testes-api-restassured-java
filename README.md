@@ -161,7 +161,8 @@ Adicione esses scripts no **pom.xml**:
 5. Abra um Pull Request
 
 ## 👤 Autora
-**Janaína Mayara Valério** 💡 Estudante de Automação de Testes | 🥰 Apaixonada por Java & Qualidade de Software 💜
+**Janaína Mayara Valério** 
+💡 Estudante de Automação de Testes | 🥰 Apaixonada por Java & Qualidade de Software 💜
 
 "Continue praticando. Programar é como dirigir: no começo parece difícil, mas com prática tudo se torna natural."
 — Flávio D.
