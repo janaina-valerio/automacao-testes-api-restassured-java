@@ -38,3 +38,4 @@ cd automacao-testes-api-restassured-java
 
 # 3. Instale as dependências
 mvn clean install
+
