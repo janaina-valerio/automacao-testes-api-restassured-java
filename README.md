@@ -162,18 +162,17 @@ Adicione esses scripts no **pom.xml**:
 
 ## 💡 Dicas para quem está começando agora:
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.5.5/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.5.5/maven-plugin/reference/html/#build-image)
-* [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.5.5/reference/htmlsingle/#using-boot-devtools)
+* [Documentação Oficial do Apache Maven](https://maven.apache.org/guides/index.html)
+* [Guia de Referência do Plugin Maven do Spring Boot](https://docs.spring.io/spring-boot/docs/2.5.5/maven-plugin/reference/html/)
+* [Criar uma imagem OCI](https://docs.spring.io/spring-boot/docs/2.5.5/maven-plugin/reference/html/#build-image)
+* [Ferramentas de desenvolvimento do Spring Boot](https://docs.spring.io/spring-boot/docs/2.5.5/reference/htmlsingle/#using-boot-devtools)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.5.5/reference/htmlsingle/#boot-features-developing-web-applications)
 
 ### Guias
 As guias a seguir ilustram como usar alguns recursos na prática:
 
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+* [Construindo um serviço web RestFul](https://spring.io/guides/gs/rest-service/)
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 * [Criando serviços REST com Sprig](https://spring.io/guides/tutorials/bookmarks)
 
 ## 👤 Autora
