@@ -136,7 +136,7 @@ Adicione esses scripts no **pom.xml**:
 - Maven → Reload project
 - File → Invalidate Caches → Invalidate and Restart
 
-### Problemas com Java 17/21/25
+### 🔧 Problemas com Java 17/21/25
 
 - Use ♨️ ***Java 11*** (versão mais estável com RestAssured 4.4.0)
 
@@ -169,6 +169,22 @@ Adicione esses scripts no **pom.xml**:
 
 - E-mail: jm.janainamayara@hotmail.com
 - GitHub: [@janaina-valerio](https://github.com/janaina-valerio)
+
+## 💡 Dicas para quem está começando agora:
+
+* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
+* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.5.5/maven-plugin/reference/html/)
+* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.5.5/maven-plugin/reference/html/#build-image)
+* [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.5.5/reference/htmlsingle/#using-boot-devtools)
+* [Spring Web](https://docs.spring.io/spring-boot/docs/2.5.5/reference/htmlsingle/#boot-features-developing-web-applications)
+
+### Guias
+As guias a seguir ilustram como usar alguns recursos na prática:
+
+* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
+* [Criando serviços REST com Sprig](https://spring.io/guides/tutorials/bookmarks)
 
   
 ⭐ **Deixe uma estrela se este projeto te ajudou! 💜**
