@@ -151,15 +151,6 @@ Adicione esses scripts no **pom.xml**:
 - ✅ Use config.properties + .gitignore
 - ✅ Adicione .env e target/ no .gitignore
 
-
-## 🤝 Como Contribuir
-
-1. Faça um Fork do projeto
-2. Crie uma branch: git checkout -b feature/nova-funcionalidade
-3. Commit: git commit -m 'feat: adiciona teste de X'
-4. Push: git push origin feature/nova-funcionalidade
-5. Abra um Pull Request
-
 ## 💡 Dicas para quem está começando agora:
 
 * [Documentação Oficial do Apache Maven](https://maven.apache.org/guides/index.html)
