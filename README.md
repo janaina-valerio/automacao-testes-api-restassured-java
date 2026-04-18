@@ -168,7 +168,7 @@ Adicione esses scripts no **pom.xml**:
 * [Ferramentas de desenvolvimento do Spring Boot](https://docs.spring.io/spring-boot/docs/2.5.5/reference/htmlsingle/#using-boot-devtools)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.5.5/reference/htmlsingle/#boot-features-developing-web-applications)
 
-### Guias
+## 💡 Guias 
 As guias a seguir ilustram como usar alguns recursos na prática:
 
 * [Construindo um serviço web RestFul](https://spring.io/guides/gs/rest-service/)
