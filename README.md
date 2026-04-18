@@ -177,4 +177,4 @@ As guias a seguir ilustram como usar alguns recursos na prática:
 - GitHub: [@janaina-valerio](https://github.com/janaina-valerio)
 
   
-⭐ **Deixe uma estrela se este projeto te ajudou! 💜**
+⭐ **Se este projeto te ajudou, deixe uma estrela! 💜**
