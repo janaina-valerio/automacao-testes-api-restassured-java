@@ -51,7 +51,7 @@ password=sua_senha
 token=seu_token_aqui
 ```
 
-**Dica: Nunca commite credenciais reais no Git!**
+**Dica: Nunca, eu repito NUNCA commite credenciais reais no Git!**
 
 ## 🧪 Executando os Testes
 
@@ -160,16 +160,6 @@ Adicione esses scripts no **pom.xml**:
 4. Push: git push origin feature/nova-funcionalidade
 5. Abra um Pull Request
 
-## 👤 Autora
-**Janaína Mayara Valério** 
-💡 Estudante de Automação de Testes | 🥰 Apaixonada por Java & Qualidade de Software 💜
-
-"Continue praticando. Programar é como dirigir: no começo parece difícil, mas com prática tudo se torna natural."
-— Flávio D.
-
-- E-mail: jm.janainamayara@hotmail.com
-- GitHub: [@janaina-valerio](https://github.com/janaina-valerio)
-
 ## 💡 Dicas para quem está começando agora:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
@@ -185,6 +175,16 @@ As guias a seguir ilustram como usar alguns recursos na prática:
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 * [Criando serviços REST com Sprig](https://spring.io/guides/tutorials/bookmarks)
+
+## 👤 Autora
+**Janaína Mayara Valério** 
+💡 Estudante de Automação de Testes | 🥰 Apaixonada por Java & Qualidade de Software 💜
+
+"Continue praticando. Programar é como dirigir: no começo parece difícil, mas com prática tudo se torna natural."
+— Flávio D.
+
+- E-mail: jm.janainamayara@hotmail.com
+- GitHub: [@janaina-valerio](https://github.com/janaina-valerio)
 
   
 ⭐ **Deixe uma estrela se este projeto te ajudou! 💜**
