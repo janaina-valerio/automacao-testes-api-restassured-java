@@ -137,7 +137,7 @@ Adicione esses scripts no **pom.xml**:
 - File → Invalidate Caches → Invalidate and Restart
 
 ### 🔧 Problemas com Java 17/21/25
-- Durante o projeto eu tive muitos problemas com as versões do Java 17/21 e 25.
+- Durante o projeto eu tive muitos problemas com as versões do Java: 17, 21 e 25.
 - Use ♨️ ***Java 11*** (versão mais estável com RestAssured 4.4.0)
 
 ### ⚠️ Testes falhando por token
